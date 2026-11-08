@@ -1,13 +1,18 @@
-# InkPilot
+<p align="center">
+  <img src="assets/inkpilot.svg" alt="InkPilot logo" width="96">
+</p>
 
-**An open-source printer manager for Epson printers.**
+<h1 align="center">InkPilot</h1>
+
+<p align="center"><b>An open-source printer manager for Epson printers.</b></p>
+
 Setup, ink levels, maintenance, print settings and print jobs, all in one simple app. No bloat, no ads, no account sign-ups.
 
 <p align="center">
   <img src="docs/screenshots/overview.png" alt="InkPilot overview screen showing printer status, ink levels and today's cleaning count" width="860">
 </p>
 
-> ⚠️ **Status: early development.** The screens below are design previews of the planned app. Nothing is ready to install yet. Star or watch the repo to follow progress.
+> ⚠️ **Status: early development.** The screenshots below come from the v0.2 UI design. There's no public release yet. Star or watch the repo to follow progress.
 
 ---
 
@@ -82,7 +87,7 @@ Contributions are welcome, especially testing on printer models we don't have. P
 
 ## License
 
-InkPilot is free software under the [GNU General Public License v3.0](LICENSE).
+InkPilot is open source under the [MIT License](LICENSE).
 
 ## Disclaimer
 

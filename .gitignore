@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+.vs/
+*.swp
+*.suo
+*.user
+
+# Build output
+bin/
+obj/
+build/
+dist/
+out/
+*.exe
+*.dll
+*.pdb
+*.msi
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+
+# Logs and local config
+*.log
+.env

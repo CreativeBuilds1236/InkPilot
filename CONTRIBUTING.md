@@ -32,4 +32,4 @@ Be kind and patient with other contributors. Harassment or personal attacks are 
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [GNU GPL v3.0](LICENSE).
+By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).
