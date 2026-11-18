@@ -26,10 +26,6 @@ Some printer commands can waste ink, wear the printer, or void its warranty. Any
 
 Writing to printer memory (for example resetting the waste ink counter) is **out of scope** for now.
 
-## Be respectful
-
-Be kind and patient with other contributors. Harassment or personal attacks are not tolerated.
-
 ## License
 
 By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).
