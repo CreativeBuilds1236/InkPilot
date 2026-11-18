@@ -97,4 +97,4 @@ Maintenance features send commands directly to your printer. Use them at your ow
 
 ---
 
-Made by [Rajesh Divakaran](https://github.com/CreativeBuilds1236)
+
